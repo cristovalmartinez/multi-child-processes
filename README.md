@@ -5,7 +5,7 @@
   <img src="https://i.ytimg.com/vi/hmTl5Y4ee_Y/mqdefault.jpg" width="320" alt="nodejs server" />
 </div>
 
-<h1>Multi-process express server</h1>
+<h1>simple multi-process express server</h1>
 
 > <p>By: Cristoval M. </p>
 <br>
@@ -15,9 +15,10 @@
 <br>
 
 ### :dart: Getting Started
-
-<p>
-No need to install 3rd party packages. Simple node js web server</p>
+1. <p>In the root directory, run:</p>
+`
+npm install
+`
 
 ### :dart: Config
 
