@@ -39,7 +39,7 @@ Update .env file with desired port number. Install dotenv as a dev dependency
 <div align="center">
 </br>
 
- #### :gem: Let's connect
+ #### :gem:
 
 
 [![website-shield][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![instagram-shield][instagram-shield]][instagram-url]
